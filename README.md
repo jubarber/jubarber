@@ -29,7 +29,7 @@ I like facing big challenges and being able to learn form others.  #StudentModeA
 <h2> 🤝🏻 Connect with Me </h2>
  
 
-- https://www.linkedin.com/in/giulia-barber/<br/>
+- https://www.linkedin.com/in/giulia-barber<br/>
 
 - julibarber22@gmail.com<br/>
 
