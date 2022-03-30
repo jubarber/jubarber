@@ -2,7 +2,7 @@
 
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?color=01CAF4&lines=Full+Stack+Web+Developer;HTML%2C+CSS%2C+Javascript;React.js%2C+Redux%2C+Node.js%2C+Express.js;Angular%2C+PostgreSQL&center=true">
+ <img src="https://readme-typing-svg.herokuapp.com?color=01CAF4&lines=Full+Stack+Web+Developer;HTML%2C+CSS%2C+Javascript;React.js%2C+Redux%2C+Node.js%2C+Express.js;Tailwind%2C+PostgreSQL&center=true">
 </p>
 
 Tech, plant and music lover, living in Argentina 🇦🇷. <br/>
