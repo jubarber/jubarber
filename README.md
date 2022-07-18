@@ -1,4 +1,7 @@
-<h2 align="center"> Hey there! I'm Giulia Barber<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h2 align="center"> Hey there! I'm Giulia Barber
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<iframe src="https://giphy.com/embed/M4NykXxUE0HAcK7UJ6" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/shecodesio-computer-javascript-shecodes-M4NykXxUE0HAcK7UJ6">via GIPHY</a></p>
+</h2>
 
 
 <p align="center">
